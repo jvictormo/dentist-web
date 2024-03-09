@@ -1,4 +1,4 @@
-# What is new ?
+# 📅 What is new ?
 • A responsive WireFrame of the website done in figma, more features will be added soon
 \
 \
